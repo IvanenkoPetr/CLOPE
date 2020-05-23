@@ -1,0 +1,13 @@
+C:\Programming\CLOPE\CLOPE\bin\Debug\netcoreapp3.1\CLOPE.exe
+C:\Programming\CLOPE\CLOPE\bin\Debug\netcoreapp3.1\CLOPE.deps.json
+C:\Programming\CLOPE\CLOPE\bin\Debug\netcoreapp3.1\CLOPE.runtimeconfig.json
+C:\Programming\CLOPE\CLOPE\bin\Debug\netcoreapp3.1\CLOPE.runtimeconfig.dev.json
+C:\Programming\CLOPE\CLOPE\bin\Debug\netcoreapp3.1\CLOPE.dll
+C:\Programming\CLOPE\CLOPE\bin\Debug\netcoreapp3.1\CLOPE.pdb
+C:\Programming\CLOPE\CLOPE\obj\Debug\netcoreapp3.1\CLOPE.csprojAssemblyReference.cache
+C:\Programming\CLOPE\CLOPE\obj\Debug\netcoreapp3.1\CLOPE.csproj.CoreCompileInputs.cache
+C:\Programming\CLOPE\CLOPE\obj\Debug\netcoreapp3.1\CLOPE.AssemblyInfoInputs.cache
+C:\Programming\CLOPE\CLOPE\obj\Debug\netcoreapp3.1\CLOPE.AssemblyInfo.cs
+C:\Programming\CLOPE\CLOPE\obj\Debug\netcoreapp3.1\CLOPE.dll
+C:\Programming\CLOPE\CLOPE\obj\Debug\netcoreapp3.1\CLOPE.pdb
+C:\Programming\CLOPE\CLOPE\obj\Debug\netcoreapp3.1\CLOPE.genruntimeconfig.cache
