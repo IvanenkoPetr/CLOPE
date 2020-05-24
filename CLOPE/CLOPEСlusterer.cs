@@ -111,6 +111,8 @@ namespace CLOPE
                     }                    
                 }
             } while (moved);
+
+            isAlreadyClustered = true;
         }
 
         private Cluster<T,K> GetClusterOfTransaction(Transaction<T,K> transaction)
