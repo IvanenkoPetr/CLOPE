@@ -16,7 +16,7 @@ namespace CLOPE
             IReultsOutput<string, char> reultsOutput = new ConsoleOutput();
             reultsOutput.Output(clusters);
 
-            Console.ReadKey();
+            Console.ReadKey1();
 
         }
     }
