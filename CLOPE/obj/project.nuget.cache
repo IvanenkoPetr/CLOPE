@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "trTI0dg8JAoFU+Nc150VuHxNQtin7do2o/TXD8fNJSg0tZUos6skqBlLwkgMYoGfy1d17klmjv07KQcK1Z48+A==",
+  "dgSpecHash": "jRxzGrSC8WuFdXasM5AkTyyyAUek9WwMQqIMQl+JM3GTylWro03P7F7KrTatB5ceLupMvo1AqkPpzoP5WHIQ7A==",
   "success": true,
-  "projectFilePath": "C:\\Programming\\CLOPE\\CLOPE\\CLOPE.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\79605\\Source\\Repos\\CLOPE\\CLOPE\\CLOPE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79605\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\79605\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\79605\\.nuget\\packages\\system.io.abstractions\\16.1.10\\system.io.abstractions.16.1.10.nupkg.sha512",
+    "C:\\Users\\79605\\.nuget\\packages\\system.io.abstractions.testinghelpers\\16.1.10\\system.io.abstractions.testinghelpers.16.1.10.nupkg.sha512",
+    "C:\\Users\\79605\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.7.0\\system.io.filesystem.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\79605\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\79605\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
