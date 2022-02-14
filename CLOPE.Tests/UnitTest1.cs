@@ -27,7 +27,7 @@ namespace CLOPE.Tests
         [Fact]
         public void Test4()
         {
-
+            throw new NullReferenceException();
         }
     }
 }
